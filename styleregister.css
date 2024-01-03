@@ -1,0 +1,13 @@
+body{
+    margin: 100px;
+    font-family: "Brush Script MT",cursive;
+    padding: 25px;
+    background-color: #eee2dc;
+    border-style: inset;
+    border-width: 7px;
+    border-top-right-radius: 70px ;
+    border-bottom-left-radius: 70px;
+    border-color: #ac3b61;
+    font-size: large;
+    color: #123c69;
+}

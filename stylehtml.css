@@ -1,0 +1,31 @@
+body{
+    margin: 100px;
+    font-family: "Brush Script MT",cursive;
+    padding: 25px;
+    background-color: #eee2dc;
+    color:;
+    border-style: inset;
+    border-width: 7px;
+    border-radius: 70px;
+    border-color: #ac3b61;
+    
+}
+.topic{
+    color: #123c69;
+    margin-top: 40px;
+}
+li,p{
+    font-size: large;
+    color: #123c69;
+    
+}
+.top,h4{
+    color: #123c69;
+}
+iframe{
+    border-style:ridge ;
+    border-color: #ac3b61;
+    border-width: 5px;
+    border-radius: 25px;
+}
+
