@@ -3,7 +3,6 @@ body{
     font-family: “Comic Sans MS”, “Comic Sans”, cursive;
     padding: 25px;
     background-color: #eee2dc;
-    color:;
     border-style: inset;
     border-width: 7px;
     border-radius: 70px;
@@ -29,7 +28,3 @@ iframe{
     border-radius: 25px;
 }
 
-font-family: “Comic Sans MS”, “Comic Sans”, fantasy;
-
-
-font-family: "Brush Script MT",cursive;
